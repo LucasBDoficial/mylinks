@@ -118,7 +118,7 @@ body {
     box-shadow: 0 0 0 10px rgba(208, 108, 47, 0.05),
      0 0 50px #D06C2F,
      0 0 100px #D06C2F;
-     animation: animar calc(150s / var(--i)) linear infinite;
+     animation: animar calc(155s / var(--i)) linear infinite;
   }
 
   @keyframes animar {
@@ -137,6 +137,7 @@ body {
     box-shadow: 0 0 0 10px rgba(208, 108, 47, 0.05),
      0 0 50px #D06C2F,
      0 0 100px #D06C2F;
+     animation: animar calc(145s / var(--i)) linear infinite;
     }
 
 
