@@ -21,9 +21,9 @@ body {
 body {
   font-size: 1.6rem;
   background: linear-gradient(
-      to bottom left, 
+      to top, 
       rgb(30, 30, 30), 
-      rgb(1, 24, 61)70%
+      rgb(1, 24, 61)
     )
 
 }
@@ -44,8 +44,8 @@ body {
   }
   
   .profile img {
-    width: 200px;
-    height: 195px;
+    width: 20rem;
+    height: 20rem;
     background-image: cover;
     border-radius: 50%;
   }
@@ -126,7 +126,7 @@ body {
       transform:  translateY(100vh) scale(0);
     }
     100% {
-      transform:  translateY(-10vh) scale(1);
+      transform:  translateY(-10vh) scale(0.5);
     }
   }
 
