@@ -20,9 +20,9 @@ body {
   height: 100vh;
   font-size: 1.6rem;
   background: linear-gradient(
-      to top, 
-      rgb(30, 30, 30), 
-      rgb(1, 24, 61)
+      to top,  
+      black,
+      rgb(30, 30, 30)
     )
 
 }
